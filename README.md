@@ -1,5 +1,7 @@
-## Hi there 👋 Stranger
-I'm Vedant 
+## Hi there 👋 I am Vedant Dhumal
+
+- I am BMS in finance graduate tried to get into front end development.
+- I am starting from HTML, CSS and JAVASCRIPT, then to ReactJs or React Native. 
 <!--
 **vedantdez/vedantdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
