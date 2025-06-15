@@ -3,7 +3,7 @@
 - I am BMS in finance graduate trying to get into front end development.
 - I am starting from HTML, CSS and JAVASCRIPT, then to ReactJs or React Native. 
 - 💼 I have 11 months of work experience at Chartered Accountant Firm.
-- 🌱 Currently I'm learning HTML & CSS from youtube and Python from Coursera.
+- 🌱 Currently I'm learning HTML & CSS from Youtube and Python from Coursera.
 - 😶‍🌫️ I'm look for guidance to reach my goals.
 - 🤙 You can reach me through my gmail: drawset04@gmail.com
 <!--
